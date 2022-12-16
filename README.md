@@ -2,9 +2,9 @@
 
 ## Prerequisite
 
-This filter pack requires the installation of ["Reshade"](https://reshade.me/).
+This filter pack requires the installation of [ReShade](https://reshade.me/).
 
-For more detailed information I invite you to view my ["dedicated tutorial"](https://www.youtube.com/watch?v=Shuz3S4JD5E) on my YouTube channel.
+For more detailed information I invite you to view my [dedicated tutorial](https://www.youtube.com/watch?v=Shuz3S4JD5E) on my YouTube channel.
 
 ## Info
 
@@ -12,7 +12,7 @@ Thanks for downloading my filter pack <3
 
 You can leave a review on the discord at this link :
 
-➡️ ["https://discord.com/invite/6RHPNNVtKw"](https://discord.com/invite/6RHPNNVtKw) ⬅️
+➡️ [https://discord.com/invite/6RHPNNVtKw](https://discord.com/invite/6RHPNNVtKw) ⬅️
 
 I will take your feedback seriously and you will help me to improve this pack further !
 
