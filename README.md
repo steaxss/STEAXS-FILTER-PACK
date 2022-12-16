@@ -8,7 +8,7 @@ For more detailed information I invite you to view my [dedicated tutorial](https
 
 ## ℹ️ Description
 
-Thanks for downloading my filter pack <3
+This filter pack is used on the game Dead By Daylight to beautify your game with ReShade.
 
 You can leave a review on the discord at this link :
 
