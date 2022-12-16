@@ -1,9 +1,3 @@
-# STEAXS FILTER PACK V3
-
-## Prerequisite
-
-This filter pack requires the installation of [ReShade](https://reshade.me/).
-
 For more detailed information I invite you to view my [dedicated tutorial](https://www.youtube.com/watch?v=Shuz3S4JD5E) on my YouTube channel.
 
 ## Info
@@ -28,8 +22,10 @@ Please do not DM me to make custom filters, I don't do that, even for money sorr
 
 ## License
 
-By steaxs.
-Authorized use, sharing and modification.
-Commercial use prohibited.
+[![CC4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-[![CC40](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+By steaxs.
+
+Authorized use, sharing and modification.
+
+Commercial use prohibited.
