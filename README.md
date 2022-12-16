@@ -22,6 +22,12 @@ Please do not DM me to make custom filters, I don't do that, even for money sorr
 
 To get the latest version : [Download here](https://github.com/steaxss/STEAXS-FILTER-PACK/releases)
 
+## ❓ WHERE TO INSTALL IT ?
+
+### STEAM
+
+### EPIC GAMES
+
 
 ## 🆕 Changelog
 
