@@ -26,8 +26,8 @@ To get the latest version : [Download here](https://github.com/steaxss/STEAXS-FI
 
 | Platform      | Path |
 | -----------   | ----------- |
-| Steam         | \steamapps\common\DeadByDaylight\DeadByDaylight\Binaries\Win64\       |
-| Epic Games    | DeadByDaylight\DeadByDaylight\Binaries\EGS\                           |
+| Steam         | C:\Program Files\Steam\steamapps\common\DeadByDaylight\DeadByDaylight\Binaries\Win64\            |
+| Epic Games    | C:\Program Files\Epic Games\DeadByDaylight\DeadByDaylight\Binaries\EGS\                          |
 
 ## 🆕 Changelog
 
