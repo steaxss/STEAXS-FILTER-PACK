@@ -25,3 +25,11 @@ Please do not DM me to make custom filters, I don't do that, even for money sorr
 - **Filter "1 - SMOOTH UNIVERSAL"** - More suitable for streamers and people who don't want to make big changes to their game (chill players or beginners). Personally, I do not recommend using this filter on Coldwind Farm. This filter is streaming-friendly so you can use it to beautify your stream without killing the viewers' eyes.
 
 - **Filter "17 - SMOOTH COLDWIND"** = Same as "smooth universal" but suitable on coldwind farm for streamers.
+
+## License
+
+By steaxs.
+Authorized use, sharing and modification.
+Commercial use prohibited.
+
+[![CC40](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
