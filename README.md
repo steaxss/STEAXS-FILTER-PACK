@@ -24,10 +24,10 @@ To get the latest version : [Download here](https://github.com/steaxss/STEAXS-FI
 
 ## ❓ WHERE TO INSTALL IT ?
 
-### STEAM
-
-### EPIC GAMES
-
+| Platform      | Path |
+| -----------   | ----------- |
+| Steam         | \steamapps\common\DeadByDaylight\DeadByDaylight\Binaries\Win64\       |
+| Epic Games    | DeadByDaylight\DeadByDaylight\Binaries\EGS\                           |
 
 ## 🆕 Changelog
 
