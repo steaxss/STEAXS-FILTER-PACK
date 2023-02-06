@@ -50,4 +50,6 @@ By [steaxs](https://github.com/steaxss).
 
 Authorized use, sharing and modification.
 
+If you want to modify them to improve them, please credit me.
+
 Commercial use prohibited.
