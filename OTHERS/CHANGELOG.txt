@@ -1,0 +1,17 @@
+      V15
+===============
+
+NEW :
+
+✅ DVARKA
+
+UPDATED :
+
+✅ MACMILLAN
+✅ COLDWIND
+✅ SALOON
+✅ LERY'S (minor changes)
+
+To get the best experience possible, please take my configuration file "GameUserSettings.ini", if you ever need help see my last video on my YT channel.
+
+The video will help you improve the FPS of your game Dead by Daylight, feel free to go see it : https://www.youtube.com/watch?v=-BSEV54lzrY (video is in French)
