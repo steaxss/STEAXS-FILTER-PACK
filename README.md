@@ -33,15 +33,6 @@ To get the latest version : [Download here](https://github.com/steaxss/STEAXS-FI
 
 To see in detail the changes over time, it is here :
 
-
-## Filters description
-
-- **Filter "0 - AGRESSIVE UNIVERSAL"** - For players who want a more or less universal filter, very bright and colorful as well.
-
-- **Filter "01 - SMOOTH UNIVERSAL"** - More suitable for streamers and people who don't want to make big changes to their game (chill players or beginners).
-Personally, I do not recommend using this filter on Coldwind Farm.
-This filter is streaming-friendly so you can use it to beautify your stream without killing the viewers' eyes.
-
 ## ©️ License
 
 [![CC4.0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
