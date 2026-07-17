@@ -1,0 +1,4 @@
+[/Script/Engine.InputSettings]
+bEnableMouseSmoothing=False
+bDisableMouseAcceleration=True
+RawMouseInputEnabled=1
